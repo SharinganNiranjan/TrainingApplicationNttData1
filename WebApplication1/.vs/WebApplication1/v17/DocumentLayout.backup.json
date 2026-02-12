@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\352664\\Desktop\\.net\\git example\\SharinganNiranjan\\TrainingApplicationNttData1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6518DA0-40A3-4E81-A82D-2B72BE96C5D3}|WebApplication1.csproj|c:\\users\\352664\\desktop\\.net\\git example\\sharinganniranjan\\trainingapplicationnttdata1\\webapplication1\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6518DA0-40A3-4E81-A82D-2B72BE96C5D3}|WebApplication1.csproj|solutionrelative:htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlPage1.html",
+              "DocumentMoniker": "C:\\Users\\352664\\Desktop\\.net\\git example\\SharinganNiranjan\\TrainingApplicationNttData1\\WebApplication1\\HtmlPage1.html",
+              "RelativeDocumentMoniker": "HtmlPage1.html",
+              "ToolTip": "C:\\Users\\352664\\Desktop\\.net\\git example\\SharinganNiranjan\\TrainingApplicationNttData1\\WebApplication1\\HtmlPage1.html",
+              "RelativeToolTip": "HtmlPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-12T07:26:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
